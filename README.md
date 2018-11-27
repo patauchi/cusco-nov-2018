@@ -31,10 +31,10 @@ Usando sistemas de información geográfica(SIG) aplicado al modelamiento de nic
 #+end_example
 
 
-#+ begin_test
+#+begin_test
 library(sdStaf)
 
-#+ end_test
+#+end_test
 
 4. Estamos listos para trabajar!.
 
