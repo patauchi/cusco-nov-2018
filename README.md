@@ -7,6 +7,12 @@ Usando sistemas de información geográfica(SIG) aplicado al modelamiento de nic
 1. Descargar el archivo "Instalar-paquetes-gis.R".
 2. Abrir el archivo con RStudio.
 3. Ejecutar todas las lineas de comando. Estas lineas permite installar todos los paquetes necesarios para elborar los modelos de nicho ecológico y usar R como GIS.
+4. Ejecutar la siguiente linea de código para probar si los paquetes fueron instalados correctamente
+*+ begin_test
+library(sdStaf)
+
+*+ end_test
+
 4. Estamos listos para trabajar!.
 
 
