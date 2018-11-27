@@ -9,7 +9,6 @@ Usando sistemas de información geográfica(SIG) aplicado al modelamiento de nic
 3. Ejecutar todas las lineas de comando. Estas lineas permite installar todos los paquetes necesarios para elborar los modelos de nicho ecológico y usar R como GIS.
 4. Ejecutar la siguiente linea de código para probar si los paquetes fueron instalados correctamente
 
-*Importante...*
 
 ``` r
 require(sdStaf)
@@ -26,3 +25,8 @@ require(dismo)
 
 NOTA: En caso error contactar a *patauchi@gmail.com*
 
+
+## Entorno de trabajo
+El modelamiento de nicho ecológico trabaja mediante el siguiente esquema de trabajo.
+
+![Alt text](https://github.com/patauchi/cusco-nov-2018/blob/master/tb.png "Frameworks")
