@@ -1,2 +1,3 @@
-# cusco-nov-2018
-Material elaborado para el presente trabajo
+# Curso de R aplicado a GIS
+
+1. Descargar el archivo \code{Instalar-paquetes-gis}
