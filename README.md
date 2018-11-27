@@ -12,4 +12,4 @@ Usando sistemas de información geográfica(SIG) aplicado al modelamiento de nic
 
 
 
-NOTA: En caso 
+NOTA: En caso error contactar a *patauchi@gmail.com*
