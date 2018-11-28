@@ -50,7 +50,9 @@ library(kuenm)
 ```
 9. Descargar MaxEnt desde [https://biodiversityinformatics.amnh.org/open_source/maxent/]
 
-10. Estamos listos para trabajar!.
+10. Descargar el contenidio de la carpeta Synallaxis_zimmeri [https://github.com/patauchi/courses/tree/master/enm/Synallaxis_zimmeri]
+
+11. Estamos listos para trabajar!.
 
 
 NOTA: En caso error contactar a *patauchi@gmail.com*
