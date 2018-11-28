@@ -35,6 +35,18 @@ require(dismo)
 ``` r
 install.packages("rJava")
 require(rJava)
+
+
+# Instalando kuenm
+if(!require(devtools)){
+    install.packages("devtools")
+}
+
+if(!require(kuenm)){
+    devtools::install_github("marlonecobos/kuenm")
+}
+
+library(kuenm)
 ```
 9. Descargar MaxEnt desde [https://biodiversityinformatics.amnh.org/open_source/maxent/]
 
